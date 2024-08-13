@@ -9,12 +9,14 @@ import loading_screen_messages.client.gui.LoadingScreen;
 public class ClientEvents {
 
 	@SubscribeEvent
-	public void onClientTick(TickEvent.ClientTickEvent event) throws Exception {
+	public void onClientTick(TickEvent.ClientTickEvent event) throws Exception
+	{
 		Minecraft minecraft = Minecraft.getMinecraft();
 		TickEvent.Phase phase = event.phase;
 		TickEvent.Type type = event.type;
 
-		if (phase == TickEvent.Phase.END) {
+		if (phase == TickEvent.Phase.END)
+		{
 			if (type.equals(TickEvent.Type.CLIENT))
 			{
 				if (!(minecraft.loadingScreen instanceof LoadingScreen))

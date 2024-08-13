@@ -35,14 +35,4 @@ public class LoadingScreenMessages {
 	{
 		return new ResourceLocation(MOD_ID, location);
 	}
-
-	public static String find(String location)
-	{
-		return modAddress() + location;
-	}
-
-	public static String modAddress()
-	{
-		return MOD_ID + ":";
-	}
 }
