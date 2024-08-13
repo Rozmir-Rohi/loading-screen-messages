@@ -11,7 +11,7 @@ import net.minecraft.client.shader.Framebuffer;
 import org.lwjgl.opengl.GL11;
 
 import cpw.mods.fml.client.FMLClientHandler;
-import loading_screen_messages.client.gui.loading_screen_message.LoadingScreenMessage;
+import loading_screen_messages.client.gui.message.MessageForLoadingScreen;
 
 public class LoadingScreen extends LoadingScreenRenderer {
 
@@ -19,7 +19,7 @@ public class LoadingScreen extends LoadingScreenRenderer {
 
 	private Minecraft minecraft;
 
-	private String currentDisplayedTrivia = "";
+	private String currentDisplayedMessage = "";
 
 	private long systemTime = Minecraft.getSystemTime();
 
@@ -40,7 +40,7 @@ public class LoadingScreen extends LoadingScreenRenderer {
 	{
 		super.resetProgressAndMessage(message);
 
-		this.currentDisplayedTrivia = LoadingScreenMessage.getNewMessageForLoadingScreen();
+		this.currentDisplayedMessage = MessageForLoadingScreen.getNewMessageForLoadingScreen();
 	}
 
 	@Override
@@ -125,7 +125,7 @@ public class LoadingScreen extends LoadingScreenRenderer {
 				GL11.glEnable(GL11.GL_BLEND);
 				OpenGlHelper.glBlendFunc(770, 771, 1, 0);
 				this.minecraft.fontRenderer.drawStringWithShadow(this.message, (scaledWidth - this.minecraft.fontRenderer.getStringWidth(this.message)) / 2, scaledHeight / 2 - 4 + 8, 16777215);
-				this.minecraft.fontRenderer.drawStringWithShadow(this.currentDisplayedTrivia, (scaledWidth - this.minecraft.fontRenderer.getStringWidth(this.currentDisplayedTrivia)) / 2, scaledHeight - 16, 0xffff99);
+				this.minecraft.fontRenderer.drawStringWithShadow(this.currentDisplayedMessage, (scaledWidth - this.minecraft.fontRenderer.getStringWidth(this.currentDisplayedMessage)) / 2, scaledHeight - 16, 0xffff99);
 			}
 
 			this.frameBuffer.unbindFramebuffer();

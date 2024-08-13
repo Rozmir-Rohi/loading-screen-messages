@@ -1,0 +1,4 @@
+The Loading Screen Messages mod is intended to be used with a custom resource pack.
+Please create your own resource pack for the Loading Screen Messages mod.
+The resource pack template can be found on the Loading Screen Messages mod's Curseforge page.
+Curseforge Page: https://www.curseforge.com/minecraft/mc-mods/loading-screen-messages

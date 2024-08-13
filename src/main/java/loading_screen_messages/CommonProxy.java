@@ -8,13 +8,6 @@ public class CommonProxy {
 
 	public void init()
 	{
-
+		//nothing is supposed to be here, everything is handled on the client side.
 	}
-
-	public static void registerEvent(Object event)
-	{
-		FMLCommonHandler.instance().bus().register(event);
-		MinecraftForge.EVENT_BUS.register(event);
-	}
-
 }

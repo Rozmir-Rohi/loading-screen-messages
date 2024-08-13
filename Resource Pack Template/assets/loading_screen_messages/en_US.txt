@@ -1,0 +1,124 @@
+Sometimes Support Creepers will spawn lighting, charging any normal Creepers nearby.
+Zombies, Skeletons, and Creepers will drop their head if killed by a Charged Creeper's explosion.
+A Whip can be used to make most MoCreatures animals stay put.
+Use a Deconstruction Table to replenish aspect points for research.
+The Wyvern is the fastest MoCreatures flying mount.
+You can make a Turtle a Mutant Ninja Turtle by naming it as one of them.
+Turtles you named as Mutant Ninja Turtles will drop their weapons on death.
+Zebras will dance to Zebra Shuffle.
+Automate mundane tasks with Golemancy.
+Bad Apples can be eaten with a Dendroid Mask for good effects.
+You can transform Horses and Ostriches by giving them essences to drink.
+Put a shield in a crafting table to remove any arrows caught.
+Werewolves killed in their human form drop worse loot than if killed in thier wolf form.
+A Silver Sword is the best weapon against Werewolves.
+You can feed a pet Snake with Raw Rat or live Mice.
+Having a pet Bird on your head will allow you to glide down from tall places.
+The Osmotic Enchanter can be used for selective enchanting with thaumic enchantments.
+The Advanced Enchantment Table gives full control over all enchantments.
+Don't unlock forbidden research unless you are sure it will be useful.
+Very rarely, Silver Skeletons will drop a Silver Sword.
+Once bound, a Voyage Scroll can be used to teleport to a Voyagestone.
+Heal Iron Golems and Snow Golems with an Iron Ingot or Snow Ball.
+Note down the location of Aura Nodes when you find them.
+Don't destroy Eldritch Obelisks. Use them to get to the Outer Lands.
+An Ender Rift Foci or a Travelling Trunk with an Ordo upgrade can be used for portable storage.
+Some Wand Foci can be upgraded through the Focal Manipulator.
+Too much flux in an area can create taint.
+Plant a Tainted Seed on Mycelium to create a Dendroid Sentinel or Seer.  
+Use Thaumaturgy to it's full extent.
+Arcane Bores can be used for automated mining.
+Placing an Arcane Lamp on an Arcane Bore will make it light up the area it mines.
+An Arcane Bore functions according to the upgrades of its Excavation focus.
+The best way to trade with a Pech is through jars of Lucrum essentia.
+Use a Thaumometer to identify items, blocks and mobs.
+Right click Warded Jars with a Wand to empty them.
+Warded Jars work with hoppers.
+Absorb Aspect Orbs dropped by mobs or blocks by having a Wand in your hotbar.
+A Voyage Gem allows for travel between multiple Voyagestones.
+Rare, mythical mobs roam through Roofed Forests at night.
+You can equip armour on to tamed Wolves.
+Right click a tamed Wolf while sneaking to view it's inventory.
+The Inventarium can be used by Thaumaturges for organised mass storage.
+Found a new block, item or mob? Great, now scan it with a Thaumometer.
+Clay, Stone, Iron, and Thaumium Golems are fireproof, and can also walk underwater.
+Feeding a Bat Horse an Essence of Light above y_150 creates a Pegasus.
+The Infernal Furnace is the fastest Furnace in the game.
+Mo' Creatures Horses like eating Apples and Hay Stacks. You can breed them using Pumpkins.
+Mo' Creatures Horses will stay put if you give them a Hay Stack.
+Press P to open the Ender Compendium. Use this to understand all things that originate from the End.
+Progress in the Ender Compendium by consuming Knowledge Notes or interacting with Ender phenomena.  
+If you're lost on what to do next, look at the Achievements tab, Thaumonomicon, or Ender Compendium.
+Some warp is ok, but too much warp can lead to very bad things.
+Zebras can be tamed with Apples only if approached with a teir 4 Horse.
+A Pet Amulet can store most MoCreatures pets for easy transport.
+Some special MoCreatures Horses require unique Amulets for storage.
+If a special Horse dies, sometimes it may turn into a Ghost Horse.
+A Thaumic Restorer can be used to efficiently repair any damaged item.
+If you fight a Big Golem till it explodes, it will drop it's centre block.
+Scorpian Armor sets give useful buffs.
+A Transference Gem with the Mob enhancement can be used to teleport mobs to a location.
+Use a Dynamism Tablet with a Mob enhanced Transference Gem to transport tricky Mobs.
+You can breed a Pegasus and Unicorn with Essences of Light to create a Fairy Horse.
+You can only reach the Wyvern Lair with a Wyvern Portal Staff.
+A Unicorn is made from feeding a Fire Horse an Essence of Light.
+Using a Whip while riding a Unicorn or Elephant will make them ram.
+Unicorns will glide when falling.
+Using a Whip while riding a Fire Horse will make a trail of fire.
+Press Z while blocking with a Shield to perform a shield bash.
+Don't drop any items near Goats, they will eat them.
+You can milk female Goats. But don't try to milk male Goats.
+Pet Scorpions will lay an egg if given an Essence of Darkness.
+Sometimes Wyverns drop Wyvern Eggs when they die.
+Golden Fleece is obtained from Golden Rams; one of the rarest mythical mobs!
+If you drop Void Star Dust on a Cow it has a chance to transform into a Minotaur.
+You can ride a Strider with a Saddle. They can be used to travel across Lava.
+Kitties have special needs: Kitty Bed, Pet Food, a Litter Box, and lots of attention.
+Ogres and some other mobs will break through walls to get to you if they spot you.
+Double click the search bar in your inventory to search for a specific item in containers.
+Press U while hovering over an item in your inventory to show it's uses.
+Press R while hovering over an item in your inventory to show it's recipe.
+Use Armor Stands to store your armor.
+Some Shipwrecks in the ocean have treasure in them.
+Hold shift while hovering over a food item in your inventory for hunger information.
+Thaumostatic Pylons automatically refuel Thaumostatic Harnesses in the given area.
+Ursas spawn in snow biomes at night. They become Star Cores in death.
+Jackalopes can be bred with Carrots.
+Wolpertigers can be breed with Golden Carrots.
+Fairy Dust can be used just like Bone Meal.
+You can bottle Fairies in Jars, but be careful. Other Fairies will try to rescue them.
+You can make a bottled Fairy happy by giving it Sugar.
+Hold right click while using a Tusk Lance to dash.
+Elite Hunters can be hired for Golden Ingots.
+Pet Blitsunes will evolve to Battlesunes when they gain enough combat experience.
+A Dendroid Sword will heal you if you are holding it and are under 3 hearts of health.
+Eating the same food over and over will restore less and less hunger.
+Wearing Crystal Glasses allows you to see clearly when swimming in lava.
+Piglins will trade items for Golden Ingots.
+Piglins may get angry if you pickup golden items near them.
+Piglins won't be hostile if you wear at least one golden armor piece.
+Hoglins can be tamed with Fungal treats so that they don't attack you.
+Tamed Hoglins can be bred with Fungi.
+Zoglins and Zombified Piglins can be cured with a Potion of Weakness and Golden Apples.
+You can use Bonemeal on Nylium and Netherrack that is next to Nylium.
+You can use Bonemeal on a Fungus to grow it into a Huge Fungus.
+Soulfire hurts living creatures more. Undead or fire immune creatures will not burn.
+Foxfire hurts any creature that is immune to fire.
+Shadowfire hurts any creature that is not undead with withered damage.
+Overworld logs and Nether logs can be stripped of bark when right clicked with an axe.
+If Lava flows into a Spectral Dew flow block it will create Blackstone.
+If Lava flows into a Spectral Dew source block it will create Basalt.
+Tinted Glass does not allow light to go through it, including sunlight.
+Wolpertingers can be bred with Golden Carrots.
+Jackalopes and Frost Jackalopes can be bred with Carrots.
+Mythical Creatures items can be repaired at Anvils using the materials used to craft them.
+When right clicked a Marrow Sword will heal it's user in exchange for hunger.
+When right clicked a Happy Fairy Jar will have a chance of giving Fairy Dust.
+Shift right click a held Fairy Jar to release the Fairy. 
+Hoglins are afraid of Warped Fungus.
+Staves store much more vis than Wands and Scepters but can't be used in Arcane crafting.
+A Scepter is the most well-rounded wand type in Thaumcraft.
+A Staff is the best wand type for use in combat.
+You need a Ghost Amulet to harvest Ectoplasm from Spooky Logs.
+Repair enchantments can only be applied to certain Thuamcraft items (mainly Thaumium).
+Repair enchantments repair items' durability using vis from a wand or staff.

@@ -9,7 +9,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = LoadingScreenMessages.MOD_ID, version = "v1.0")
+@Mod(modid = LoadingScreenMessages.MOD_ID, version = "1.0")
 public class LoadingScreenMessages {
 
 	public static final String MOD_ID = "loading_screen_messages";
@@ -26,7 +26,6 @@ public class LoadingScreenMessages {
 	public void init(FMLInitializationEvent event)
 	{
 		isAetherLegacyLoaded = Loader.isModLoaded("aether_legacy");
-		
 		
 		proxy.init();
 	}

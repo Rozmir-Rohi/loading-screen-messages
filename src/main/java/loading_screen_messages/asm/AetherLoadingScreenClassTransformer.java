@@ -11,7 +11,7 @@ import net.minecraft.launchwrapper.IClassTransformer;
 public class AetherLoadingScreenClassTransformer implements IClassTransformer {
    public byte[] transform(String name, String transformedName, byte[] classBeingTransformed) 
    {
-	   if (name.equals("AetherTrivia") || name.equals("com.gildedgames.the_aether.client.trivia.AetherTrivia")) //this forces the Aether mod to use the messages from this mod if it is installed
+	   if (name.equals("com.gildedgames.the_aether.client.trivia.AetherTrivia")) //this forces the Aether mod to use the messages from this mod if it is installed
 	   {
 		   System.out.println("[Loading Screen Messages]: Currently inside the transformer and about to patch: " + name);
 		   classBeingTransformed = patchClassInJar(name, classBeingTransformed, name, AetherLoadingScreenFMLLoadingPlugin.location);

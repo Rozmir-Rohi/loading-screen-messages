@@ -1,4 +1,4 @@
-package loading_screen_messages.client.gui.loading_screen_message;
+package loading_screen_messages.client.gui.message;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,11 +14,11 @@ import com.google.common.collect.Lists;
 import loading_screen_messages.LoadingScreenMessages;
 import net.minecraft.client.resources.I18n;
 
-public class LoadingScreenMessage {
+public class MessageForLoadingScreen {
 
 	private static Random random = new Random();
 
-	public LoadingScreenMessage() {
+	public MessageForLoadingScreen() {
 
 	}
 
@@ -47,7 +47,7 @@ public class LoadingScreenMessage {
 		try
 		{
 			List<String> list = Lists.newArrayList();
-			bufferedReader = new BufferedReader(new InputStreamReader(Minecraft.getMinecraft().getResourceManager().getResource(LoadingScreenMessages.locate("texts/" + localization + ".txt")).getInputStream(), StandardCharsets.UTF_8));
+			bufferedReader = new BufferedReader(new InputStreamReader(Minecraft.getMinecraft().getResourceManager().getResource(LoadingScreenMessages.locate(localization + ".txt")).getInputStream(), StandardCharsets.UTF_8));
 			String string;
 
 			while ((string = bufferedReader.readLine()) != null)

@@ -2,13 +2,13 @@
 {
   "modid": "loading_screen_messages",
   "name": "Loading Screen Messages",
-  "description": "Messages for your Loading Screen",
+  "description": "Customizable Messages for your Loading Screen",
   "version": "1.0",
   "mcversion": "1.7.10",
   "url": "https://www.curseforge.com/minecraft/mc-mods/loading-screen-messages",
   "updateUrl": "",
-  "authorList": ["bconlon, Oscar Payn, Hugo Payn, JellySquid"],
-  "credits": "Rozmir + see credits file inside",
+  "authorList": ["Rozmir"],
+  "credits": "TheAetherTeam (see credits file inside)",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
