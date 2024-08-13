@@ -1,5 +1,19 @@
-# Example Project
+# Loading Screen Messages
 
+
+## Credits & License Conditions:
+This mod is a strip down of the 1.7.10 Aether mod for it's loading screen feature.
+
+This mod is licensed under the GNU Lesser General Public License v3.0 and complies with the Aether Mod's Custom License as it only uses parts of the Aether mod's source code
+(Extract from Aether Mod License: "...The source code of The Aether mod for Minecraft 1.7+ is under the LGPL v3.0 license. Any previous versions' source code is unlicensed and all rights are reserved to it by The Aether Team.").
+
+
+**Aether Mod Credits:**
+- Aether Collaboration Team (Kingbdogz, Shockah, Kodaichi, Flan, and 303) for creating the original Aether mod
+
+- Modding Legacy (115kino, KingPhygieBoo, and Lachney) for originally porting and developing the mod in newer versions
+
+- InsomniaKitten is for providing the inventory texture.
 
 
 ## Use of anatawa12's Fork of ForgeGradle 1.2 within Project:
