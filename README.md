@@ -1,4 +1,9 @@
 # Loading Screen Messages
+**Project Status:** Finished & Finalized
+
+*The developer of this project is retired and does not respond to private messages or GitHub issues.*
+<br><br>
+
 Adds customizable messages to the world loading screen which can be especially useful for modpacks.
 
 These messages can be customised using a resource pack.
